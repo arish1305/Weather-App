@@ -28,5 +28,5 @@ A sleek, user-friendly weather app built using **Python** and **Tkinter**. It fe
 
 ### 📁 Clone the Repository
 ```bash
-git clone https://github.com/your-username/weather-app.git
+git clone https://github.com/arish1305/weather-app.git
 cd weather-app
